@@ -2,6 +2,7 @@
   "name": "changes",
   "version": "0.0.1",
   "dependencies": {
-    "osmosis": "latest"
+    "osmosis": "latest",
+    "string-format": "latest"
   }
 }
